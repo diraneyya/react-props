@@ -2,6 +2,7 @@
   "name": "first-react-class-2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://127.0.0.1:5500/build",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
